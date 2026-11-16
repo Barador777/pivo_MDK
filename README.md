@@ -43,7 +43,7 @@
 ### Карточка товара и добавление записи
 <p align="center">
   <!-- Замени ссылку на свой скриншот BeerDetailForm / AddForm -->
-  <img width="632" height="608" alt="Карточка пива" src="https://disk.yandex.ru/client/disk?source=main-loginmenu&idApp=client&dialog=slider&idDialog=%2Fdisk%2F%7B1F6CC40B-FA3A-40DC-9896-D0CEC3A61C68%7D.png" />
+  <img width="632" height="608" alt="Карточка пива" src="https://github.com/Barador777/pivo_MDK/blob/version-2.0/%7B1F6CC40B-FA3A-40DC-9896-D0CEC3A61C68%7D.png" />
 </p>
 
 ### 🍺 Основной функционал
