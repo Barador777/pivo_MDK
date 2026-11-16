@@ -63,12 +63,12 @@
 ## Installation
 
 1. Клонируй репозиторий:
-```bash
-git clone https://github.com
-```
-2. Открой решение `пиво VS 2.0/пиво/пиво.slnx` в Visual Studio.
-3. Убедись, что файл базы данных `баратрум.accdb` находится в директории проекта и в выходной папке (`bin/Debug` или `bin/x64/Debug`).
-4. Нажми `F5` для запуска.
+   
+git clone https://github.com/Barador777/pivo_MDK.git
+
+3. Открой решение `пиво VS 2.0/пиво/пиво.slnx` в Visual Studio.
+4. Убедись, что файл базы данных `баратрум.accdb` находится в директории проекта и в выходной папке (`bin/Debug` или `bin/x64/Debug`).
+5. Нажми `F5` для запуска.
 
 ## Test Accounts
 
