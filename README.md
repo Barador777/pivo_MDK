@@ -13,13 +13,13 @@
     <img src="https://img.shields.io/badge/C%23-.NET%20Framework-purple.svg?style=flat-square" alt="C#" />
   </a>
   <a href="#">
-    <img src="[https://shields.io](https://img.shields.io/badge/Windows-Forms-blue.svg?style=flat-square)" alt="Windows Forms" />
+    <img src="https://shields.io](https://img.shields.io/badge/Windows-Forms-blue.svg?style=flat-square)" alt="Windows Forms" />
   </a>
   <a href="#">
-    <img src="[https://shields.io](https://img.shields.io/badge/Database-MS%20Access-red.svg?style=flat-square)" alt="Access" />
+    <img src="https://shields.io](https://img.shields.io/badge/Database-MS%20Access-red.svg?style=flat-square)" alt="Access" />
   </a>
   <a href="LICENSE">
-    <img src="[https://shields.io" alt="License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)" />
+    <img src="https://shields.io" alt="License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)" />
   </a>
 </p>
 
