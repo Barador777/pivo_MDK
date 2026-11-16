@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Можешь вставить сюда свой баннер/скриншот главного окна -->
-  <img width="960" height="470" alt="Пиво Banner" src="https://github.com/Barador777/pivo_MDK/blob/version-2.0/%7B4331EF29-0F41-407C-A991-94BA66835733%7D.png" />
+  <img width="960" height="520" alt="Пиво Banner" src="https://github.com/Barador777/pivo_MDK/blob/version-2.0/%7B4331EF29-0F41-407C-A991-94BA66835733%7D.png" />
 </p>
 
 <h1 align="center">Каталог пива / Пивной магазин</h1>
