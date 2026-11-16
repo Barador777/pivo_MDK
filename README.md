@@ -37,7 +37,7 @@
 ### Главное окно и каталог
 <p align="center">
   <!-- Замени ссылку на свой скриншот Form1 -->
-  <img width="1000" height="756" alt="Главное окно" src="https://disk.yandex.ru/client/disk?source=main-loginmenu&idApp=client&dialog=slider&idDialog=%2Fdisk%2F%7B57F575A5-9CEE-4D78-A717-93C525FC74FD%7D.png" />
+  <img width="1000" height="756" alt="Главное окно" src="https://github.com/Barador777/pivo_MDK/blob/version-2.0/%7B57F575A5-9CEE-4D78-A717-93C525FC74FD%7D.png" />
 </p>
 
 ### Карточка товара и добавление записи
